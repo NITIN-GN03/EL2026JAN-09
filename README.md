@@ -129,17 +129,6 @@ This task was completed as part of a cybersecurity learning module to strengthen
 
 ```
 
----
-
-If you want, I can also:
-- Add **badges**
-- Make it **resume-optimized**
-- Convert it into a **PDF report**
-- Simplify it for **beginner level**
-
-Just tell me 👍
-::contentReference[oaicite:0]{index=0}
-```
-
+Author - NITIN G N
 
 
